@@ -1,2 +1,5 @@
-# ejemplo_1
+# GEOPORTAL SENCICO
 Repositorio de ejemplo - 202506
+
+## AUTOR:
+DE LA CRUZ HIDALGO, RICHARD
